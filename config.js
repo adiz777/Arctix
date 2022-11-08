@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['919337956084','16149454333,358753264940'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['919337956084'] //another owner number
-global.premium = ['919337956084'] //premium number
-global.pengguna = 'SIBU' //username
-global.botnma = '𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓' //bot name
-global.ownernma = 'Arctix' //owner name
-global.packname = 'Arctix' //sticker package name
-global.author = '𝐀𝐫𝐜𝐭𝐢𝐜 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.' //sticker author name
+global.owner = ['917436077303'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['917436077303'] //another owner number
+global.premium = ['917436077303'] //premium number
+global.pengguna = 'Adi' //username
+global.botnma = 'ASTON' //bot name
+global.ownernma = 'Adiii' //owner name
+global.packname = 'Adiii❤☮' //sticker package name
+global.author = 'Adi' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🎭' //design
@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000//free user limit
+    free: 1000000000000000000000//free user limit
 }
 global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
 
